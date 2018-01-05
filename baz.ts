@@ -1,5 +1,4 @@
-import { goodbye } from './foo'
-
-goodbye()
+import foo from './foo'
+foo.goodbye()
 
 
